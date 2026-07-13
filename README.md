@@ -1,11 +1,113 @@
 <div align="center">
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Sudhanshu%20Kumar%20Swain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20%7C%20React.js%20Enthusiast&descAlignY=55&descSize=18)
- 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+sleek+React.js+interfaces...;Animating+with+Framer+Motion...;Crafting+pixel-perfect+UIs...;Turning+coffee+into+clean+code)](https://github.com/YOUR-USERNAME)
- 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=6366F1&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-kumar-swain-972863329/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarswainsudhanshu@gmail.com)
- 
+
 </div>
+
 <br/>
+
+## 🚀 About Me
+
+```yaml
+name: Sudhanshu Kumar Swain
+role: Frontend Developer @ Techgenius Balaji Solutions Pvt. Ltd.
+location: Bhubaneswar, Odisha, India
+education: MCA @ NIIS Institute of Business Administration (CGPA 8.3)
+focus: React.js • Tailwind CSS • Framer Motion • Responsive UI
+currently_building: Company LMS Dashboards & Landing Pages
+looking_for: Frontend Developer opportunities
+fun_fact: I animate everything - even my terminal prompt has a transition
+```
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,npm,vite&perline=7)
+
+</div>
+
+<br/>
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=blue)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+
+### ⚙️ Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+<br/>
+
+## 🌟 Featured Projects
+
+### 🩺 CareConnect
+Doctor appointment booking web app — fully responsive across mobile, tablet, desktop & all zoom levels.
+`React.js` `JavaScript` `Tailwind CSS`
+
+### 🎨 Personal Portfolio
+Modern animated portfolio with smooth page transitions & micro-interactions.
+`React.js` `Tailwind CSS` `Framer Motion`
+
+### 🏢 Company Landing Page
+Production landing page for Techgenius Balaji Solutions — reusable, optimized UI components.
+`React.js` `Tailwind CSS` `Vite`
+
+### 📚 Learning Management System
+Responsive dashboards & components integrated with REST APIs for a production-level LMS.
+`React.js` `REST APIs` `Git`
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+<br/>
+
+## 🏆 Achievements & Certifications
+
+- 🎓 Labmentix Pvt. Ltd. — Web Development Internship
+- 🏗️ 12-Hour Warehouse Hackathon (BPUT) — Built a real-time solution under strict time constraints
+- ☁️ AWS — Introduction to Generative AI
+- 💻 Coursera — Cloud Computing Certification
+- 🌐 TCS Virtual Internship — Web Development Experience
+
+<br/>
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-kumar-swain-972863329/)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarswainsudhanshu@gmail.com)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer)
+
+</div>
