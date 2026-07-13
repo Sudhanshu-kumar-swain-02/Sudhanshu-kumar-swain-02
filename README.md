@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Sudhanshu%20Kumar%20Swain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20%7C%20React.js%20Enthusiast&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+sleek+React.js+interfaces...;Animating+with+Framer+Motion...;Crafting+pixel-perfect+UIs...;Turning+coffee+into+clean+code)](https://github.com/YOUR-USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+sleek+React.js+interfaces...;Animating+with+Framer+Motion...;Crafting+pixel-perfect+UIs...;Turning+coffee+into+clean+code)](https://github.com/sudhanshu-kumar-swain-02)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=6366F1&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sudhanshu-kumar-swain-02&label=Profile%20Views&color=6366F1&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-kumar-swain-972863329/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarswainsudhanshu@gmail.com)
 
@@ -79,13 +79,13 @@ Responsive dashboards & components integrated with REST APIs for a production-le
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=sudhanshu-kumar-swain-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu-kumar-swain-02&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu-kumar-swain-02&layout=compact&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhanshu-kumar-swain-02&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
