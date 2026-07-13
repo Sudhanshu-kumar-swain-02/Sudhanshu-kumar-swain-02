@@ -1,18 +1,12 @@
 <div align="center">
 
-<!-- Animated wave banner -->  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Sudhanshu%20Kumar%20Swain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20%7C%20React.js%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Sudhanshu%20Kumar%20Swain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20%7C%20React.js%20Enthusiast&descAlignY=55&descSize=18)
 
-<!-- Typing animation -->
-<a href="https://github.com/YOUR-USERNAME">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+sleek+React.js+interfaces...;Animating+with+Framer+Motion...;Crafting+pixel-perfect+UIs...;Turning+coffee+into+clean+code+%E2%98%95" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+sleek+React.js+interfaces...;Animating+with+Framer+Motion...;Crafting+pixel-perfect+UIs...;Turning+coffee+into+clean+code)](https://github.com/YOUR-USERNAME)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="profile views"/>
-<a href="https://www.linkedin.com/in/sudhanshu-kumar-swain-972863329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:kumarswainsudhanshu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=6366F1&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-kumar-swain-972863329/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarswainsudhanshu@gmail.com)
 
 </div>
 
@@ -27,8 +21,8 @@ location: Bhubaneswar, Odisha, India
 education: MCA @ NIIS Institute of Business Administration (CGPA 8.3)
 focus: React.js • Tailwind CSS • Framer Motion • Responsive UI
 currently_building: Company LMS Dashboards & Landing Pages
-looking_for: Frontend Developer opportunities 🌱
-fun_fact: I animate everything — even my terminal prompt has a transition 😄
+looking_for: Frontend Developer opportunities
+fun_fact: I animate everything - even my terminal prompt has a transition
 ```
 
 <br/>
@@ -37,15 +31,11 @@ fun_fact: I animate everything — even my terminal prompt has a transition 😄
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,npm,vite&perline=7" />
+![Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,npm,vite&perline=7)
 
 </div>
 
 <br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -55,9 +45,6 @@ fun_fact: I animate everything — even my terminal prompt has a transition 😄
 ![Framer](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=blue)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
-
 ### ⚙️ Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -66,52 +53,25 @@ fun_fact: I animate everything — even my terminal prompt has a transition 😄
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🩺 CareConnect
 Doctor appointment booking web app — fully responsive across mobile, tablet, desktop & all zoom levels.
-
 `React.js` `JavaScript` `Tailwind CSS`
-
-</td>
-<td width="50%">
 
 ### 🎨 Personal Portfolio
 Modern animated portfolio with smooth page transitions & micro-interactions.
-
 `React.js` `Tailwind CSS` `Framer Motion`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 ### 🏢 Company Landing Page
 Production landing page for Techgenius Balaji Solutions — reusable, optimized UI components.
-
 `React.js` `Tailwind CSS` `Vite`
-
-</td>
-<td width="50%">
 
 ### 📚 Learning Management System
 Responsive dashboards & components integrated with REST APIs for a production-level LMS.
-
 `React.js` `REST APIs` `Git`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -119,14 +79,13 @@ Responsive dashboards & components integrated with REST APIs for a production-le
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" width="49%"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)
 
-<br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -146,11 +105,9 @@ Responsive dashboards & components integrated with REST APIs for a production-le
 
 ## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/sudhanshu-kumar-swain-972863329/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:kumarswainsudhanshu@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-kumar-swain-972863329/)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarswainsudhanshu@gmail.com)
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer)
 
 </div>
